@@ -52,7 +52,7 @@ const IconPickerTrigger: React.FC<IconPickerTriggerProps> = ({
       >
         {selectedIcon ? (
           <img
-            src={`icon-picker/public/icons/${selectedIcon}`}
+            src={`public/icons/${selectedIcon}`}
             alt="selected icon"
             style={{ width: "100%", height: "100%" }}
           />

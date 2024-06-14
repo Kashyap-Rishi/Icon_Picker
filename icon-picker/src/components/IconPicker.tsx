@@ -111,7 +111,7 @@ const IconPicker: React.FC<IconPickerProps> = ({
                 >
                   <Box
                     component="img"
-                    src={`icon-picker/public/icons/${icon}`}
+                    src={`public/icons/${icon}`}
                     alt="icon"
                     sx={{
                       width: "100%",
