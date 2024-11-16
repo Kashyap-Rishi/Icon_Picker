@@ -1,6 +1,6 @@
 # Icon_Picker
 
-A tool for selecting favourite icons from one place .
+A tool for selecting favourite icons from one placew .
 
 
 ## Installation
